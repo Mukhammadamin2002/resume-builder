@@ -1,0 +1,41 @@
+{
+    "Name": "Mukhammadamin Abdullaev",
+    "Job": "Backend Developer",
+    "Email": "mukhammadamindev@gmail.com",
+    "Website": "http://my-portfolio-0201.herokuapp.com",
+    "Location": "Tashkent, Uzbekistan",
+    "Mission": "Looking for a Web Dev Position",
+    "Skills": [
+        "PHP",
+        "MySQL",
+        "PostgreSQL",
+        "Golang"
+    ],
+    "Experiences": [
+        {
+            "Role": "Backend Developer",
+            "Details": [
+                "PHP",
+                "PHP Frameworks: Laravel & Yii2",
+                "SQL MySQL & PostgreSQL",
+                "Golang"
+            ]
+        }
+    ],
+    "Projects": [
+        "Blog",
+        "Polling App",
+        "Mini Ecommerce",
+        "Login System"
+    ],
+    "Education": [
+        "Amity University in Tashkent (student)"
+    ],
+    "Languages": [
+        "English",
+        "Russian",
+        "Uzbek",
+        "Tadjik"
+    ]
+
+}
